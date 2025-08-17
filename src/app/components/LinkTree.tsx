@@ -6,19 +6,23 @@ interface LinkItem {
 const links: LinkItem[] = [
   {
     title: "LinkedIn",
-    url: "https://linkedin.com/in/luoyuhan",
+    url: "https://www.linkedin.com/in/yuhan-luo-b5a91429a/",
   },
   {
     title: "YouTube",
-    url: "https://youtube.com/@luoyuhan",
+    url: "https://www.youtube.com/@YuhanLo921",
   },
   {
     title: "Instagram",
-    url: "https://instagram.com/luoyuhan",
+    url: "https://www.instagram.com/2catcholivia/",
+  },
+  {
+    title: "TikTok",
+    url: "https://www.tiktok.com/@oliviaistraveling",
   },
   {
     title: "RedNote",
-    url: "https://rednote.com/luoyuhan",
+    url: "https://xhslink.com/m/5r0ADjyTPLY",
   },
 ];
 
